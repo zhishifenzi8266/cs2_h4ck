@@ -6,7 +6,7 @@
 ## **开始前准备**
 
 ### **必备工具**
-1. 下载 [Releases](./releases) 中的 DLL 文件。
+1. 下载 [Releases](https://github.com/zhishifenzi8266/cs2_h4ck/releases/tag/dll) 中的 DLL 文件。
 2. 下载并使用 DLL 注入工具 [Extreme Injector](https://github.com/master131/ExtremeInjector/releases)。
 
 ---
