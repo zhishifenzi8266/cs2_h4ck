@@ -1,0 +1,4 @@
+# ninja log v5
+5	512	7625091475172679	CMakeFiles/glow.dir/dllMain.cpp.obj	cdba55e2667df919
+513	979	7625091475172679	glow.dll	bf999a2ecfb7a4a3
+513	979	7625091475172679	glow.lib	bf999a2ecfb7a4a3
