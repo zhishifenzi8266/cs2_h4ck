@@ -21,7 +21,7 @@
 2. 在注入器界面中添加目标游戏的运行进程。
 
 ### **步骤 3：添加 DLL 文件**
-1. 从 [Releases](./releases) 下载所需的 DLL 文件。
+1. 从 [Releases](https://github.com/zhishifenzi8266/cs2_h4ck/releases/tag/dll) 下载所需的 DLL 文件。
 2. 在注入器中，将下载的 DLL 文件添加到注入列表中。
 
 ### **步骤 4：配置注入器设置**
